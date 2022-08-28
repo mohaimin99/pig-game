@@ -1,4 +1,14 @@
-<h1 align="center"> # pig-game </h1>
-A fun little Pig Game made with JavaScript
+<h1 align="center"> 🎲 Pig Game 🎲 </h1>
 
-<p align="center"> 🎉 A fun little Pig Game made with JavaScript</p>
+![Logo](https://raw.githubusercontent.com/mohaimin99/pig-game/main/screenshot.png)
+
+🎉 A fun little Pig Game made with JavaScript
+
+
+## Rules
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
