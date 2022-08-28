@@ -5,10 +5,13 @@
 🎉 A fun little Pig Game made with JavaScript
 
 
-## Rules
+## Steps
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+    ✌️ 2 Players Game
+    👍 Roll the Dice
+    🤞 Preserve the scores
+    🤏 Rolled low? Start from zero
 
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript
