@@ -7,10 +7,10 @@
 
 ## Steps
 
-    ✌️ 2 Players Game
-    👍 Roll the Dice
-    🤞 Preserve the scores
-    🤏 Rolled low? Start from zero
+    🟢 2 Players Game
+    🟢 Roll the Dice
+    🟢 Preserve the scores
+    🟢 Rolled low? Start from zero
 
 ## Tech Stack
 
