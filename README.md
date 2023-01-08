@@ -2,15 +2,16 @@
 
 ![Logo](https://raw.githubusercontent.com/mohaimin99/pig-game/main/image.png)
 
-🎉 A fun little Pig Game made with JavaScript
+<p align="center"> 🎉 A fun mini game made with JavaScript 🎉 </p>
 
 
 ## Steps
 
     🟢 2 Players Game
     🟢 Roll the Dice
-    🟢 Preserve the scores
-    🟢 Rolled low? Start from zero
+    🟢 Hold the scores
+    🟢 Rolled 1? Start from zero
+    🟢 First player to reach 100, wins! 🎉
 
 ## Tech Stack
 
