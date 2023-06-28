@@ -14,5 +14,4 @@
     🟢 First player to reach 100, wins! 🎉
 
 ## Tech Stack
-
 **Client:** HTML, CSS, JavaScript
