@@ -4,7 +4,6 @@
 
 <p align="center"> 🎉 A fun mini game made with JavaScript 🎉 </p>
 
-
 ## Steps
 
     🟢 2 Players Game
@@ -14,4 +13,5 @@
     🟢 First player to reach 100, wins! 🎉
 
 ## Tech Stack
+
 **Client:** HTML, CSS, JavaScript
